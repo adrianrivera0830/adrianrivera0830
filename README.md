@@ -1,5 +1,4 @@
 ## Hi there 👋
-Hi! My name is Adrian, currently studying CS in FCFM (Facultad Fisico Ciencias Matematicas) in UANL
 <!--
 **adrianrivera0830/adrianrivera0830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
